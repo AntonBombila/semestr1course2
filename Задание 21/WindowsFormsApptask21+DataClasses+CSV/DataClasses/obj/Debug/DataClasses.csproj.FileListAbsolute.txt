@@ -1,0 +1,6 @@
+C:\Users\mrtur\source\repos\repos2\DataClasses\bin\Debug\DataClasses.dll
+C:\Users\mrtur\source\repos\repos2\DataClasses\bin\Debug\DataClasses.pdb
+C:\Users\mrtur\source\repos\repos2\DataClasses\obj\Debug\DataClasses.csproj.AssemblyReference.cache
+C:\Users\mrtur\source\repos\repos2\DataClasses\obj\Debug\DataClasses.csproj.CoreCompileInputs.cache
+C:\Users\mrtur\source\repos\repos2\DataClasses\obj\Debug\DataClasses.dll
+C:\Users\mrtur\source\repos\repos2\DataClasses\obj\Debug\DataClasses.pdb

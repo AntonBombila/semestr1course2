@@ -1,0 +1,5 @@
+C:\Users\mrtur\source\repos\repos2\WindowsFormsApptask20\obj\Debug\WindowsFormsApptask20.csproj.AssemblyReference.cache
+C:\Users\mrtur\source\repos\repos2\WindowsFormsApptask20\obj\Debug\WindowsFormsApptask21.MainForm.resources
+C:\Users\mrtur\source\repos\repos2\WindowsFormsApptask20\obj\Debug\WindowsFormsApptask20.Properties.Resources.resources
+C:\Users\mrtur\source\repos\repos2\WindowsFormsApptask20\obj\Debug\WindowsFormsApptask20.csproj.GenerateResource.cache
+C:\Users\mrtur\source\repos\repos2\WindowsFormsApptask20\obj\Debug\WindowsFormsApptask20.csproj.CoreCompileInputs.cache
